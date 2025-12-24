@@ -5,5 +5,5 @@ import IntroLandingV2 from './App.js'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <IntroLandingV2 />
-  </StrictMode>,
+  </StrictMode>
 )
