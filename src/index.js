@@ -7,3 +7,4 @@ createRoot(document.getElementById('root')).render(
     <IntroLandingV2 />
   </StrictMode>
 );
+
