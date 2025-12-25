@@ -106,7 +106,7 @@ const IntroLandingV2 = () => {
             }`}
           >
             <div className="bg-gradient-to-r from-orange-500 to-orange-600 text-white px-6 py-2 rounded-full text-sm font-bold shadow-lg">
-              🏀 Új megközelítés • Interaktív • Szórakoztató
+               Új megközelítés • Interaktív • Szórakoztató
             </div>
           </div>
 
